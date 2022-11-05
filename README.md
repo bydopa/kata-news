@@ -2,7 +2,8 @@ Kata News
 ================
 
 # Iteracion 1
-- Se debe ver cada noticia en una lista (se puede usar el tab de eventos como inspiracion ref: zpl://screen?pid=58e2b013c78758c36bcd781d&sid=5e73948f7d49e1bb51da4be3)
+- Se debe ver cada noticia en una lista (se puede usar el tab de eventos como inspiracion 
+- ref: zpl://screen?pid=58e2b013c78758c36bcd781d&sid=5e73948f7d49e1bb51da4be3)
 - Cada noticia tiene que mostrar solamente el titulo (sin la parte del reloj) y en lugar de mostrar rewards debe mostrar la categoria
 - Al presionar una new debe navegar a la descripcion de la misma
 - En la descripcion deben verse todos sus campos ordenados de una forma user friendly
