@@ -8,10 +8,12 @@
     <fragment
         android:id="@+id/lobbyFragment"
         android:name="com.etermax.preguntados.kata_news.presentation.lobby.LobbyFragment"
-        android:label="lobby_fragment"
+        android:label="LobbyFragment"
         tools:layout="@layout/lobby_fragment" >
         <action
             android:id="@+id/action_lobbyFragment_to_newsDetailFragment"
+            app:popUpTo="@id/lobbyFragment"
+            app:popUpToInclusive="true"
             app:destination="@id/newsDetailFragment" />
     </fragment>
     <fragment
